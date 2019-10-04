@@ -127,7 +127,7 @@ update.grid(row=5, column=3)
 delete = Button(window, text='Delete', width=12, command=delete_command)
 delete.grid(row=6, column=3)
 
-close = Button(window, text='Close', width=12)
+close = Button(window, text='Close', width=12, command=window.destroy)
 close.grid(row=7, column=3)
 
 
