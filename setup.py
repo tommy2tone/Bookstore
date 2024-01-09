@@ -7,7 +7,7 @@ requires = [
 
 setup(
     name='Bookstore',
-    version='',
+    version='1',
     packages=find_packages(),
     keywords='python tkinter sqlite',
     url='',

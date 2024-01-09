@@ -1,0 +1,7 @@
+README.md
+setup.py
+Bookstore.egg-info/PKG-INFO
+Bookstore.egg-info/SOURCES.txt
+Bookstore.egg-info/dependency_links.txt
+Bookstore.egg-info/requires.txt
+Bookstore.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: Bookstore
+Version: 1
+Summary: Bookstore application with GUI (TKinter) and database (SQLite) interaction.
+Home-page: 
+Author: Tom Hildebrand
+Author-email: t1manster@gmail.com
+Keywords: python tkinter sqlite
+Requires-Dist: tkinter
+Requires-Dist: sqlite3
